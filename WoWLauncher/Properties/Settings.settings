@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WoWLauncher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WoWFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Patch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.3.5.12340</Value>
+    </Setting>
+    <Setting Name="ServerTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dalaran-WoW</Value>
+    </Setting>
+    <Setting Name="Realmlist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">set realmlist logon.dalaran-realmlist.org</Value>
+    </Setting>
+    <Setting Name="RegisterUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.dalaran-wow.com/account/welcome/</Value>
+    </Setting>
+    <Setting Name="UpdateUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.dalaran-wow.com/updates/</Value>
+    </Setting>
+    <Setting Name="NewsUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.dalaran-wow.com/forums/news-and-rules/news-and-announcements</Value>
+    </Setting>
+    <Setting Name="Timeout" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:10</Value>
+    </Setting>
+    <Setting Name="NewsParser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dalaran-WoW</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

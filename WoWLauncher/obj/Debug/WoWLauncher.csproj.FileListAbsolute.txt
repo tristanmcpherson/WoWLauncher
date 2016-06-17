@@ -1,0 +1,62 @@
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe.config
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.pdb
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\WPFToolkit.dll
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csprojResolveAssemblyReference.cache
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\MainWindow.g.cs
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\App.g.cs
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher_MarkupCompile.cache
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher_MarkupCompile.lref
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\App.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\MainWindow.baml
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.g.resources
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.Properties.Resources.resources
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.GenerateResource.Cache
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
+c:\users\laptop\documents\visual studio 2015\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb
+C:\Users\Laptop\Documents\Visual Studio 2015\Projects\WoWLauncher\WoWLauncher\bin\Debug\App.config
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe.config
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\App.config
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.pdb
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\WPFToolkit.dll
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csprojResolveAssemblyReference.cache
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\MainWindow.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\MainWindow.g.cs
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\App.g.cs
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher_MarkupCompile.cache
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\App.baml
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.g.resources
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.Properties.Resources.resources
+C:\Projects\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.GenerateResource.Cache
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\CloudFlareUtilities.dll
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\CloudFlareUtilities.xml
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlRenderer.dll
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlRenderer.WPF.dll
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlRenderer.pdb
+C:\Projects\WoWLauncher\WoWLauncher\bin\Debug\HtmlRenderer.WPF.pdb
+D:\Programming\C#\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe.config
+D:\Programming\C#\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
+D:\Programming\C#\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb
+C:\Users\Tristan\Source\Repos\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe.config
+C:\Users\Tristan\Source\Repos\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
+C:\Users\Tristan\Source\Repos\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb
