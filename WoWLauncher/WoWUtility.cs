@@ -122,11 +122,6 @@ namespace WoWLauncher
             if (folder == null)
             {
                 progress.Report(new ActionProgress("Cannot find WoW Directory. Please choose"));
-                var dialog = new FolderBrowserDialog();
-                if (dialog.ShowDialog() == DialogResult.OK)
-                {
-                    folder = dialog.SelectedPath;
-                }
             }
             Settings.Default.WoWFolder = folder;
             Settings.Default.Save();

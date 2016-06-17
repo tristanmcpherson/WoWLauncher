@@ -4,11 +4,12 @@ using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Windows;
-using System.Windows.Input;
 using HtmlAgilityPack;
 using TheArtOfDev.HtmlRenderer.Core.Entities;
 using TheArtOfDev.HtmlRenderer.WPF;
 using WoWLauncher.Properties;
+using System.Windows.Media;
+using System.Windows.Input;
 
 namespace WoWLauncher
 {
@@ -44,6 +45,7 @@ namespace WoWLauncher
         {
             Close();
         }
+
         private void Exit_OnMouseEnter(object sender, MouseEventArgs e)
         {
             ExitPath.Stroke = Brushes.White;
@@ -128,7 +130,12 @@ namespace WoWLauncher
 
         private void SetWoWFolder_OnClick(object sender, RoutedEventArgs e)
         {
-            
+            var dialog = new System.Windows.Forms.FolderBrowserDialog();
+            if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                Settings.Default.WoWFolder = dialog.SelectedPath;
+                Settings.Default.Save();
+            }
         }
 
         private void NewsTextBlock_OnLinkClicked(object sender, RoutedEvenArgs<HtmlLinkClickedEventArgs> args)
